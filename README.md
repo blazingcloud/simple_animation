@@ -1,6 +1,18 @@
 Starter files for Interactive Graphics Class
 ============================================
 
+Schedule
+
+* 10am- 11am Overview, Interactive Graphics Concepts
+* **short break**
+* 11:15 - noon Introduction to Animation
+* **lunch**
+* 1-2:30 pm Lab: buiding a simple game
+* **short break**
+* 2:45-3:30: 3D effects
+* 3:45 - 5 Canvas drawing
+
+
 Slides
 
 * [Keynote](http://www.slideshare.net/blazingcloud/interactive-graphics-w-javascript-html5-and-css3)
