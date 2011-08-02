@@ -4,11 +4,11 @@ Starter files for Interactive Graphics Class
 Schedule
 
 * 10am- 11am Overview, Interactive Graphics Concepts
-* **short break**
+* _short break_
 * 11:15 - noon Introduction to Animation
-* **lunch**
+* _lunch_
 * 1-2:30 pm Lab: buiding a simple game
-* **short break**
+* _short break_
 * 2:45-3:30: 3D effects
 * 3:45 - 5 Canvas drawing
 
