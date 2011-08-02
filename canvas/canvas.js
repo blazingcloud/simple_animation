@@ -83,11 +83,10 @@ BRICKOUT.timerInterval = 1000 / 60; //Update the display 60 times per second
 BRICKOUT.timer = null;
 
 BRICKOUT.clearContext = function () { 
-    BRICKOUT.context.clearRect ( 0 , 0 , BRICKOUT.canvasWidth , BRICKOUT.canvasHeight ); 
+    
 };
 
 BRICKOUT.draw = function() {
-    BRICKOUT.clearContext();
     BRICKOUT.ball.draw();
     BRICKOUT.paddle.draw();
 };
